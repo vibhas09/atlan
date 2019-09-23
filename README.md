@@ -30,6 +30,8 @@ As distance between any two points on earth’s surface is not the Euclidean dis
 6. Find the shops' density (i.e. number of shops per sq. km.) using the produced data.
 7. Plot colored polygons on the map representing dense commertial centers/ markets. The color corresponds to the relative shops' density in a cluster.
 ![Map](pictures/v2.PNG)
+![Map](pictures/v3.PNG)
+
 8. Validation
 Using the MarkerCluster class of Folium, clusters of markets are plotted on the map. The results turns out to be similar to the one obtained using DBSCAN.
 ![Map](pictures/v1.PNG)
